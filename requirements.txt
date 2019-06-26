@@ -1,4 +1,4 @@
 jupyter==1.0.0
-dvc==0.41.3
+dvc==0.50.1
 scikit-learn==0.21.2
 pandas==0.24.2
